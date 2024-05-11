@@ -1,3 +1,7 @@
+# Fast React Pizza
+
+An application where the user can order pizza online. A project of Jonas Scmmedtmann's Ultimate React Course 2024.
+
 ## Application Requirements
 
 1. Users can order one or more pizzas from a menu
@@ -49,13 +53,3 @@
 >   - ui (pages, components for the whole app )
 > - services (functions connected with API)
 > - utils (helper functions)
-
-## Components
-
-### [App.jsx](./src/App.md),
-
-### [Header.jsx](./src/features/ui/Header.md),
-
-### [AppLayout.jsx](./src/features/ui/AppLayout.md),
-
-### [CreateOrder.jsx](./src/features/order/CreateOrder.md)
